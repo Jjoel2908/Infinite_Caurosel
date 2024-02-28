@@ -3,7 +3,7 @@
 
 ### Descripción del proyecto
 
-Este proyecto es una aplicación de quiz en React que permite a los usuarios responder preguntas de diferentes categorías como Ciencia, Deportes, Filosofia, Geografía, Historia, Literatura y Tecnología. 
+Este proyecto es una aplicación de blog interactivo que permite al usuario visualizar un carrusel de imagenes que se mueven de derecha a izquierda de manera continua.
 
 ### Ilustración
 ![Descripción de la imagen](https://github.com/Jjoel2908/Infinite_Caurosel/blob/master/caurosel.png)
